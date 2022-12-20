@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="AddBtn" type="id"/>
+    <item name="AddNumber" type="id"/>
+    <item name="ClearBtn" type="id"/>
+    <item name="NextPageBtn" type="id"/>
+    <item name="textViewCashflowplus" type="id"/>
+    <item name="textViewCashflowminus" type="id"/>
+    <item name="textViewCashflow" type="id"/>
+</resources>
